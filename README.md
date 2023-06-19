@@ -7,6 +7,10 @@ node version de la 16.7.0 en adelante
 npm install @angular/cli@10.0.0
 ng add @angular/material
 
+hacer un npm install
+levantar con `ng serve` for a dev server. abrir en `http://localhost:4200/
+
+
 
 ## Development server
 
